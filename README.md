@@ -2,8 +2,8 @@
 
  <div>
   <a href="https://github.com/julyo-cezar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julyo-cezar&show_icons=tru&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julyo-cezar&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julyo-cezar&show_icons=tru&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julyo-cezar&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
 
 #
