@@ -1,7 +1,7 @@
 ## Ola! Eu sou Julyo Cezar
 
  <div>
-  <a href="https://github.com/andrefreddi">
+  <a href="https://github.com/julyo-cezar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julyo-cezar&show_icons=tru&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julyo-cezar&layout=compact&langs_count=7&theme=dracula"/>
 </div>
